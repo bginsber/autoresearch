@@ -21,3 +21,7 @@ dev/
 
 # Results file
 results.tsv
+
+# Interp research artifacts
+interp_progress.png
+run.log
